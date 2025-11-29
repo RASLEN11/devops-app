@@ -1,0 +1,25 @@
+# Maven
+target/
+*.war
+*.jar
+*.ear
+
+# IDE
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.iws
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
