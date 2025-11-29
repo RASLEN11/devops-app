@@ -8,7 +8,7 @@ public class AppTest {
     @Test
     public void testGetGreeting() {
         App app = new App();
-        assertEquals("Hello DevOps World from Java Maven Project!", app.getGreeting());
+        assertEquals("Hello DevOps World - Enhanced with New Features!", app.getGreeting());
     }
     
     @Test
