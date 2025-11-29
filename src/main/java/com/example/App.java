@@ -2,7 +2,7 @@ package com.example;
 
 public class App {
     public String getGreeting() {
-        return "Hello DevOps World from Java Maven Project!";
+        return "Hello DevOps World - Enhanced with New Features!";
     }
     
     public int add(int a, int b) {
